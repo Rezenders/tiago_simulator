@@ -1,7 +1,7 @@
 # Copyright (c) 2024 José Miguel Guerrero Hernández
 #
 # This file is licensed under the terms of the MIT license.
-# See the LICENSE file in the root of this repository
+# See the LICENSE file in the root of this repository.
 
 import os
 import yaml
