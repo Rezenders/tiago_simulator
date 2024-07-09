@@ -12,6 +12,8 @@
   <depend>tiago_simulation</depend>
   <depend>teleop_tools</depend>
   <depend>hey5_description</depend>
+  <depend>moveit</depend>
+  <depend>moveit_planners_chomp</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
